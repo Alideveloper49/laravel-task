@@ -136,7 +136,7 @@ docker-compose up -d
 The application is configured to connect to the MySQL container with these credentials:
 
 - **Host:** db
-- **Port:** 3306
+- **Port:** 3307
 - **Database:** task
 - **Username:** root
 - **Password:** root
@@ -144,7 +144,7 @@ The application is configured to connect to the MySQL container with these crede
 ### Ports
 
 - **8000** - Web application (Nginx)
-- **3306** - MySQL database
+- **3307** - MySQL database
 
 
 
